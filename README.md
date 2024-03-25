@@ -10,23 +10,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lovemyFamilyFovever&layout=compact&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <a href="https://github-readme-stats.vercel.app/api/pin/?username=lovemyFamilyFovever&repo=myblog">
-    <img  src="https://github-readme-stats.vercel.app/api/pin/?username=lovemyFamilyFovever&repo=myblog" />
-  </a>
-    <a href="https://github-readme-stats.vercel.app/api/pin/?username=lovemyFamilyFovever&repo=map">
-    <img  src="https://github-readme-stats.vercel.app/api/pin/?username=lovemyFamilyFovever&repo=map" />
-  </a>
-  
-  <a href="https://github-readme-stats.vercel.app/api/pin/?username=lovemyFamilyFovever&repo=Transformation-of-XML-and-SHP">
-    <img  src="https://github-readme-stats.vercel.app/api/pin/?username=lovemyFamilyFovever&repo=Transformation-of-XML-and-SHP" />
-  </a>
-  
-  <a href="https://github-readme-stats.vercel.app/api/pin/?username=lovemyFamilyFovever&repo=editor">
-    <img  src="https://github-readme-stats.vercel.app/api/pin/?username=lovemyFamilyFovever&repo=editor" />
-  </a>
-</p>
-
 ### Languages and Tools...
 
 <p align="center">
