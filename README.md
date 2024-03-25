@@ -25,9 +25,6 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
 
-## statistics
-
-[![](https://github-readme-activity-graph.vercel.app/graph?username=lovemyFamilyFovever&custom_title=study_record&hide_border=true&theme=github)](https://github.com/lovemyFamilyFovever/github-readme-activity-graph)
 <p align="center">
 You are my ![Visitor Count](https://profile-counter.glitch.me/lovemyFamilyFovever/count.svg) visitor,Thank You! 
 </p>
