@@ -6,13 +6,33 @@
 - 💬 Ask me about anything related to Javascript.
 - 📫 How to reach me: liuxiangchen75@gmail.com
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lovemyFamilyFovever&layout=compact&theme=tokyonight)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lovemyFamilyFovever&repo=map)](https://github.com/lovemyFamilyFovever/map)
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=lovemyFamilyFovever&layout=compact&theme=tokyonight">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lovemyFamilyFovever&layout=compact&theme=tokyonight" />
+</a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lovemyFamilyFovever&repo=Transformation-of-XML-and-SHP)](https://github.com/lovemyFamilyFovever/Transformation-of-XML-and-SHP)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lovemyFamilyFovever&repo=editor)](https://github.com/lovemyFamilyFovever/editor)
+<a href="https://github-readme-stats.vercel.app/api?username=lovemyFamilyFovever&show_icons=true&theme=highcontrast">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=lovemyFamilyFovever&show_icons=true&theme=highcontrast" />
+</a>
+
+
+<a href="https://github-readme-stats.vercel.app/api/pin/?username=lovemyFamilyFovever&repo=myblig">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=lovemyFamilyFovever&repo=myblig" />
+</a>
+
+<a href="https://github-readme-stats.vercel.app/api/pin/?username=lovemyFamilyFovever&repo=map">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=lovemyFamilyFovever&repo=map" />
+</a>
+
+<a href="https://github-readme-stats.vercel.app/api/pin/?username=lovemyFamilyFovever&repo=Transformation-of-XML-and-SHP">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=lovemyFamilyFovever&repo=Transformation-of-XML-and-SHP" />
+</a>
+
+<a href="https://github-readme-stats.vercel.app/api/pin/?username=lovemyFamilyFovever&repo=editor">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=lovemyFamilyFovever&repo=editor" />
+</a>
+
 
 ### My Skill Set
 
@@ -25,11 +45,10 @@
 
 ## statistics
 
-![](https://github-readme-activity-graph.cyclic.app/graph?username=lovemyFamilyFovever&theme=github)
 
 [![](https://github-readme-activity-graph.vercel.app/graph?username=lovemyFamilyFovever&custom_title=study_record&hide_border=true&theme=github)](https://github.com/lovemyFamilyFovever/github-readme-activity-graph)
 
 
-![](https://github-readme-stats.vercel.app/api?username=lovemyFamilyFovever&show_icons=true&theme=highcontrast)
+
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/lovemyFamilyFovever/count.svg) visitor,Thank You! 
