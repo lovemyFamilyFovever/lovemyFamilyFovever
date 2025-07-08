@@ -4,7 +4,6 @@
 - 🔭 I’m currently working on something cool.
 - 🌱 I’m currently learning Everything I like.
 - 💬 Ask me about anything related to Javascript.
-- 📫 How to reach me: liuxiangchen75@gmail.com
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lovemyFamilyFovever&layout=compact&theme=tokyonight" />
