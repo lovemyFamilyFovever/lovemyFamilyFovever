@@ -24,4 +24,4 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/lovemyFamilyFovever/count.svg) visitor,Thank You! 
+You are my visitor,Thank You! 
