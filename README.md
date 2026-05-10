@@ -5,9 +5,7 @@
 - 🌱 I’m currently learning Everything I like.
 - 💬 Ask me about anything related to Javascript.
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lovemyFamilyFovever&layout=compact&theme=tokyonight" />
-</p>
+
 
 ### Languages and Tools...
 
